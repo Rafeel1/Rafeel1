@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafeel
+- 👋 Hi, I’m **Rafeel Abdul Majid**
 - 👀 I’m interested in FullStack Development.
 - 🌱 I’m currently learning to master Frontend skills.
 - 💞️ I’m looking to collaborate on Web Development projects.
