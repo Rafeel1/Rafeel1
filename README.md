@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Rafeel Abdul Majid**
-- 👀 I’m interested in FullStack Development.
-- 🌱 I’m currently learning to master Frontend skills.
-- 💞️ I’m looking to collaborate on Web Development projects.
+- 👀 I’m interested in **FullStack Development**.
+- 🌱 I’m currently learning **Frontend** skills.
+- 💞️ I’m looking to collaborate on **Web Development** projects.
 - 📫 How to reach me **rafeelabdulmajid2@gmail.com**
 
 <!---
