@@ -48,8 +48,8 @@
 
 - 🚜 [Farm Management System (FYP)](https://github.com/your-username/Farm-Management-System)
 - 🤖 [Pneumonia Detection using CNNs](https://github.com/your-username/Pneumonia-Detection)
-- 🌐 [Skin Cancer Detection usinf DCAC]([Rafeel1/](https://github.com/your-username/Skin-Cancer-Detection-using-Double-Condenser-Attention-Condenser)
-- 🎮 [Rain Prediction)](https://github.com/your-username/Rain-Prediction)
+- 🌐 [Skin Cancer Detection usinf DCAC](https://github.com/your-username/Skin-Cancer-Detection-using-Double-Condenser-Attention-Condenser)
+- 🎮 [Rain Prediction](https://github.com/your-username/Rain-Prediction)
 
 ---
 
