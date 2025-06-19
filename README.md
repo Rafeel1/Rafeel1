@@ -8,7 +8,7 @@
 - 🎓 CS Graduate from FAST NUCES  
 - 🌱 Currently diving deeper into **Python Backend Development & AI**  
 - 🧠 Love solving problems with **Django**, **React**, and **Machine Learning**  
-- 🚀 Final Year Project: AI-powered **Farm Management System**  
+- 🚀 Final Year Project: AI-powered **Farm Management System** named **AgriSmart** 
 - 📫 Reach me at **rafeelabdulmajid2@gmail.com**  
 
 ---
@@ -38,7 +38,7 @@
 
 ## 📁 Featured Projects
 
-- 🚜 [Farm Management System (FYP)](https://github.com/Rafeel1/Farm-Management-System)
+- 🚜 [AgriSmart (FYP)](https://github.com/Rafeel1/AgriSmart)
 - 🤖 [Pneumonia Detection using CNNs](https://github.com/Rafeel1/Pneumonia-Detection-System)
 - 🌐 [Skin Cancer Detection using DCAC](https://github.com/Rafeel1/Skin-Cancer-Detection-using-Double-Condenser-Attention-Condenser)
 - 🎮 [Rain Prediction](https://github.com/Rafeel1/Rain-Prediction)
