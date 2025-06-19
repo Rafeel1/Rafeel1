@@ -47,7 +47,7 @@
 ## 📁 Featured Projects
 
 - 🚜 [Farm Management System (FYP)](https://github.com/Rafeel1/Farm-Management-System)
-- 🤖 [Pneumonia Detection using CNNs](https://github.com/Rafeel1/Pneumonia-Detection)
+- 🤖 [Pneumonia Detection using CNNs](https://github.com/Rafeel1/Pneumonia-Detection-System)
 - 🌐 [Skin Cancer Detection using DCAC](https://github.com/Rafeel1/Skin-Cancer-Detection-using-Double-Condenser-Attention-Condenser)
 - 🎮 [Rain Prediction](https://github.com/Rafeel1/Rain-Prediction)
 
